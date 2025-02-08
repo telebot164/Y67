@@ -1,0 +1,29 @@
+.code{
+  border-radius:10px;
+  height:30px;
+  width:70px;
+  margin-top:50px;
+  text-align:center;
+}
+.cont{
+  background-color:blue;
+  color:white;
+  font-size:14px;
+  padding:5px 10px;
+  border:none;
+  border-radius:5px;
+}
+.pass{
+  background:black;
+  margin-top:50%;
+  width:300px;
+  height:200px;
+  background-color: #1DE764;
+  margin-left:10%;
+  text-align:center;
+  border-radius:30px;
+  z-index:999;
+}
+body{
+  background-color:#00000061;
+}
